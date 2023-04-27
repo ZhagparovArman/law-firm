@@ -1,0 +1,130 @@
+{
+  "Header": {
+    "title": "GONZÁLEZ PARRA & ASOCIADOS",
+    "paragraph": "ASESORES LEGALES"
+  },
+  "About": {
+    "paragraph": "González Parra & Asociados es una de las firmas legales líderes en el occidente venezolano asistiendo a sus clientes  dentro y fuera del país fundándose en principios de ética y profesionalismo. La firma se rige con los más altos estándares calidad adatados a los  constantes cambios legales, nuestros abogados cuentan con amplia experiencia provenientes de los más prestigiosos despachos.",
+    "Why": ["Experiencia", "Honestidad", "Innovación"],
+    "Why2": ["Compromiso", "Claridad", "Probidad"]
+  },
+  "Services": [
+    {
+      "icon": "img/icon/criminal-custody.svg",
+      "altIcon": "jail",
+      "name": "Derecho Penal",
+      "text": "Asistimos a los sujetos procesales en la fase preparatoria, intermedia, el juicio oral y la fase de ejecución penal."
+    },
+    {
+      "icon": "img/icon/boy-girl.svg",
+      "altIcon": "boy",
+      "name": "Sistema de Proteccion",
+      "text": "Realizamos acciones de interés para la protección debida a los niños, niñas y adolescentes."
+    },
+    {
+      "icon": "img/icon/company-enterprise.svg",
+      "altIcon": "company",
+      "name": "Derecho Civil y Mercantil",
+      "text": "Asesoramos a los fondos de comercio localizados en la república y en el exterior con intereses  jurídicos dentro de la nación."
+    },
+    {
+      "icon": "img/icon/supervisor.svg",
+      "altIcon": "supervisor",
+      "name": "Derecho Laboral",
+      "text": "Nuestros expertos pueden ayudarte a gestionar de forma profesional y eficiente tus necesidades en materia laboral."
+    },
+    {
+      "icon": "img/icon/ship.svg",
+      "altIcon": "barco",
+      "name": "Derecho Marítimo",
+      "text": "Analizamos contratos para la explotación buques y  la responsabilidad civil derivada de dichas transiciones."
+    },
+    {
+      "icon": "img/icon/bank-account.svg",
+      "altIcon": "publico",
+      "name": "Derecho Público",
+      "text": "Contratos administrativos ordinarios y de concesiones administrativas de servicios públicos, obras públicas y suministros."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Definitivamente nos han dejado alucinado con el trabajo! Incluso más que con el trabajo...Con el servicio, rapidez, la eficiencia ...Excelente!",
+      "name": "Azafrán Market",
+      "altTestimonial": "Azafrán Market"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Queremos felicitarlos porque han interpretado y sabido plasmar al 100% nuestra idea contractual. la idea de las arras nos pareció extraordinario.",
+      "name": "La Cumbre",
+      "altTestimonial": "La Cumbre"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Nos complace decirles que estamos muy satisfechos del trabajo  realizado. Nos gusta mucho la rápida respuesta que le han dado a nuestra empresa, un equipo muy profesional.",
+      "name": "Los Pits",
+      "altTestimonial": "Los pits"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Angel González",
+      "job": "Director",
+      "altTeam": "Chicharron"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Edgar Rincón",
+      "job": "Derecho Público",
+      "altTeam": "Edgar"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Melvin Hernández",
+      "job": "Derecho Penal",
+      "altTeam": "Melvin"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Neylis Govea",
+      "job": "Sistema de Protección",
+      "altTeam": "NEylis"
+    }
+  ],
+  "Contact": {
+    "address": "Calle 70 con av 3G sector, Maracaibo - Zulia",
+    "phone": "+584146699384",
+    "email": "abgonzalezparra@gmail.com",
+    "instagram": "https://www.instagram.com/abgonzlezparra/",
+    "twitter": "https://twitter.com/abgonzalezparra",
+    "whatsapp": "https://wa.me/+130584146699384?text=Hola.%20Estoy%20interesado%20en%20sus%20servicios:%20"
+  },
+  "Features": [
+    {
+      "icon": "img/icon/valores.svg",
+      "altFeatures": "valores",
+      "title": "Valores",
+      "text": "#Lealtad  #Integridad #Confianza"
+    },
+    {
+      "icon": "img/icon/mision.svg",
+      "altFeatures": "Mision",
+      "title": "Misión",
+      "text": "Asesoramos a nuestros clientes de forma cercana y ágil en la solución de sus necesidades legales y de negocio."
+    },
+    {
+      "icon": "img/icon/vision.svg",
+      "altFeatures": "Vision",
+      "title": "Visión",
+      "text": "Nuestra vocación permanente es ser una firma líder, buscando la excelencia de nuestro equipo de abogados."
+    },
+
+    {
+      "icon": "img/icon/objetivo.svg",
+      "altFeatures": "objetivo",
+      "title": "Objetivo",
+      "text": "Servir con un alto grado de calidad, siendo responsable al cumplir con su defensa y con un alto nivel ético."
+    }
+  ]
+}
